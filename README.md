@@ -1,5 +1,5 @@
 # SimpleNetSniffer
-This a simple code for beginners to learn how common tools working like snort- cpakcetsniffer - ettercap and much more
+This a simple simple network sniffer code for beginners to learn how common tools working like snort- cpakcetsniffer - ettercap and much more
 
 
 بالطبع! دعوني أشرح هذا الكود للمبتدئين:
